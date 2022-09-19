@@ -1,7 +1,7 @@
 Oi! Eu sou Guilherme Macedo
 <div align="center">
   <a href="https://github.com/guilhermemma">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermemma&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermemma&show_icons=true&theme=radical"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermemma&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   <div style="display: inline_block"><br>
